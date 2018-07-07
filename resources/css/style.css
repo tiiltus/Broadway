@@ -16,7 +16,7 @@ body {
 }
 
 .Top p {
-  font-size: 18px;
+    font-size: 18px;
 }
 
 a {
@@ -35,8 +35,11 @@ h3 {
   font-size: 14px;
 }
 
+.Bot p {
+  font-size: 14px;
+}
+
 .Break {
-  background-image: url("../images/background.png");
   background-image: url("../images/background.png");
   overflow: hidden;
   background-size: cover;
@@ -47,7 +50,7 @@ h3 {
 
 .Footer {
   background-color: dimgray;
-  color: white;
   font-size: 11px;
   text-align: left;
+  color: white;
 }
