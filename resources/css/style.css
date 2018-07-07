@@ -5,6 +5,9 @@ body {
 
 .Top {
   background-image: url("../images/background.png");
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
 }
 
   .Top h1 {
@@ -30,4 +33,21 @@ h3 {
 
 .Mid p {
   font-size: 14px;
+}
+
+.Break {
+  background-image: url("../images/background.png");
+  background-image: url("../images/background.png");
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
+  font-size: 23px;
+  color: white;
+}
+
+.Footer {
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+  text-align: left;
 }
